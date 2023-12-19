@@ -1,1 +1,3 @@
-PROFIT-GENERATOR-TOOL is my fello project teammates and mine final year project.
+PROFIT-GENERATOR-TOOL is a linear regression algorithm based software which gives prediction about profit and loss about an organisation.
+
+The libraries used are pandas
